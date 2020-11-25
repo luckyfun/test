@@ -1,0 +1,8 @@
+Main-Services,Endpoint-Services,API-Services
+IndexLivingMall,IntegrateServices,/customers/add
+IndexLivingMall,IntegrateServices,/v1.0.0/transactions
+IndexLivingMall,IntegrateServices,/vouchers/redeem
+IndexLivingMall,IntegrateServices,/customers
+IndexLivingMall,IntegrateServices,/customers/update
+IndexLivingMall,IntegrateServices,/inventory
+IndexLivingMall,IntegrateServices,/vouchers/validate
