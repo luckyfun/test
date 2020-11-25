@@ -1,6 +1,7 @@
 {
   "nodes": [
     { "id": "IndexLivingMall", "group": "Legendary" },
-    { "id": "SignonBonus", "group": "Legendary" }
+    { "id": "SignonBonus", "group": "Legendary" },
+    { "id": "IntegrateServices", "group": "Legendary" }
   ]
 }
