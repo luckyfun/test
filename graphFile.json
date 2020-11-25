@@ -7,7 +7,9 @@
 	  	{"name":"node5","group":1},
 		{"name":"node6","group":3}
 	],
-	"links":[
+"links":[
+		{"source":2,"target":1,"weight":1},
+		{"source":2,"target":1,"weight":1},
 		{"source":2,"target":1,"weight":1},
 		{"source":0,"target":2,"weight":3}
 	]
