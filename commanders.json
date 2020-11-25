@@ -1,7 +1,15 @@
 {
   "nodes": [
-    { "id": "IndexLivingMall", "group": "Legendary" },
-    { "id": "SignonBonus", "group": "Legendary" },
-    { "id": "IntegrateServices", "group": "Legendary" }
+    { "id": "IndexLVM", "group": "Legendary" },
+    { "id": "Avatar", "group": "Legendary" },
+    { "id": "SignOn", "group": "Legendary" },
+    { "id": "Mobile", "group": "Legendary" },
+    { "id": "Galaxy", "group": "Legendary" },
+    { "id": "Challenge", "group": "Legendary" },
+    { "id": "Ivivu", "group": "Legendary" },
+    { "id": "CMS", "group": "Legendary" },
+    { "id": "ECOM", "group": "Legendary" },
+    { "id": "EDU", "group": "Legendary" },
+    { "id": "Integrate", "group": "Legendary" }
   ]
 }
