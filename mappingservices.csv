@@ -1,4 +1,4 @@
-Main-Services,Endpoint-Services,API-Services
+primary,secondary,rank
 IndexLivingMall,IntegrateServices,1
 IndexLivingMall,IntegrateServices,2
 IndexLivingMall,IntegrateServices,3
