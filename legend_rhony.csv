@@ -1,6 +1,6 @@
 primary,secondary,rank
-IndexLivingMall,IntegrateServices,1
-IndexLivingMall,IntegrateServices,2
-IntegrateServices,IndexLivingMall,1
-IntegrateServices,IndexLivingMall,2
-SignonBonus,IntegrateServices,2
+IndexLVM,Integrate,1
+IndexLVM,Integrate,2
+Integrate,IndexLVM,1
+Integrate,IndexLVM,2
+SignOn,Integrate,2
