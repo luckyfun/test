@@ -1,4 +1,4 @@
-Main-Services,Related-Services,API-Services
+MainServices,RelatedServices,APIServices
 IndexLVM,Integrate,"/customers/add"
 IndexLVM,Integrate,"/v1.0.0/transactions"
 IndexLVM,Integrate,"/vouchers/redeem"
