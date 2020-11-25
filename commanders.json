@@ -1,9 +1,6 @@
 {
   "nodes": [
-    { "id": "Julius Caesar", "group": "Legendary" },
-    { "id": "El Cid", "group": "Legendary" },
-    { "id": "Richard I", "group": "Legendary" },
-    { "id": "Cao Cao", "group": "Legendary" },
-    { "id": "Minamoto no Yoshitsune", "group": "Legendary" }
+    { "id": "IndexLivingMall", "group": "Legendary" },
+    { "id": "SignonBonus", "group": "Legendary" }
   ]
 }
