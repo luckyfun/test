@@ -10,6 +10,8 @@
     { "id": "CMS", "group": "Legendary" },
     { "id": "ECOM", "group": "Legendary" },
     { "id": "EDU", "group": "Legendary" },
+    { "id": "CE", "group": "Legendary" },
+    { "id": "VietWash", "group": "Legendary" },
     { "id": "CAP", "group": "Advanced" },
     { "id": "Integrate", "group": "Legendary" }
   ]
