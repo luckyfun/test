@@ -2,7 +2,7 @@ Load file index.html
 
 ## Edit file for mapping services
 Main Mapping services
-Json file services ID
+Json file services ID "commanders.json"
 ```data
 {
   "nodes": [
@@ -14,7 +14,7 @@ Json file services ID
 }
 ```
 Mapping services mesh2
-Csv file data services mesh
+Csv file data services mesh "legend_rhony.csv"
 ```data
 servicesname-1,servicesname-2,"Endpoint API informations"
 servicesname-1,servicesname-3,"Endpoint API informations"
