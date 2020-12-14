@@ -1,0 +1,20 @@
+<!DOCTYPE html> <meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="style.css" />
+
+<div class="row">
+  <div class="column">
+    <table>
+      <tr>
+        <td style="word-wrap:break-word;">Type: <select id="dropdown_type" onchange="changeType()"></select></td>
+        <td style="word-wrap:break-word;">Guide: <select id="dropdown_guide" onchange="changeGuide()"></select></td>
+        <td></td>
+      </tr>
+        <td style="word-wrap:break-word;"><a id="link" href="#" target="_blank">Link</a></td>
+      </tr>
+    </table>
+    <div id="info"></div>
+  </div>
+  <div class="column"><svg style="width:100%; height:auto" width="900" height="780"></svg></div>
+</div>
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script src="graph.js"></script>
